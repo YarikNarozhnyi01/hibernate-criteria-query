@@ -1,12 +1,12 @@
 package ma.hibernate.dao;
 
-import java.util.List;
-import java.util.Map;
 import java.util.Arrays;
 import jakarta.persistence.criteria.CriteriaBuilder;
 import jakarta.persistence.criteria.CriteriaQuery;
 import jakarta.persistence.criteria.Predicate;
 import jakarta.persistence.criteria.Root;
+import java.util.List;
+import java.util.Map;
 import java.util.Optional;
 import ma.hibernate.model.Phone;
 import org.hibernate.Session;
